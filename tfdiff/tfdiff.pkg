@@ -1,4 +1,4 @@
-D 'coefstability': Implements a test of coefficient stability under different assumptions of unobservable selection Use coefstability With STATA 19
+D 'tfdiff': Pre- and post-treatment estimation of the Average Treatment Effect (ATE) with binary time-fixed treatment Use tfdiff With STATA 19
 D
-F coefstability.ado
-F coefstability.hlp
+F tfdiff.ado
+F tfdiff.sthlp
