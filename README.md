@@ -1,0 +1,2 @@
+# tfdiff
+Pre- and post-treatment estimation of the Average Treatment Effect (ATE) with binary time-fixed treatment Use tfdiff With STATA 19
